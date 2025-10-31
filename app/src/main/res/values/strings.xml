@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Planejador de Viagens</string>
+    <string name="logo_do_aplicativo">Logo do aplicativo</string>
+    <string name="come_ar">Começar</string>
+    <string name="calcule_o_custo_estimado_de_sua_pr_xima_viagem">Calcule o custo estimado de sua próxima viagem!</string>
 </resources>
